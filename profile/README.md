@@ -1,4 +1,3 @@
-。github
 <div align="center">
 
 # ✦ 第五公理 ✦
